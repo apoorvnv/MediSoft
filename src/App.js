@@ -9,7 +9,7 @@ function App() {
     <>
     {/* Rendering of the component */}
 
-    <div className=" bg-sky-100">
+    <div className=" bg-cyan-100">
         <RegistrationForm/>
     </div>
 
