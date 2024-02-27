@@ -92,7 +92,7 @@ const RegistrationForm = () => {
                 <input type="password" className="p-3 mt-2 w-56 rounded-lg" id="confirm_password" placeholder='********' required />
             </div>
 
-            <button type="submit" className="text-white bg-cyan-400 text-center rounded-lg pt-1 pb-1 mb-4 mt-2 hover:bg-cyan-500"> Submit </button>
+            <button type="submit" className="text-white bg-cyan-400 text-center rounded-lg pt-1 pb-1 mb-4 mt-2 hover:bg-cyan-500 w-fit pl-4 pr-4 mx-auto"> Submit </button>
 
         </div>
 
